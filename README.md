@@ -8,4 +8,4 @@ Arabic is one of the official languages recognized by the united nation (UN) and
 Sentiment Analysis; Opinion mining; Neural Network; LSTM; Arabic.
 
 ### Authors:
-Arief Setyanto 1 , Arif Laksito 2,*, Fawaz Alarfaj 3,*, Mohammed Alreshoodi 4, Kusrini 1, Irwan Oyong 2, Mardhiya Hayaty 2, Abdullah Alomair 3, Naif Almusallam 3 and Lilis Kurniasari
+Arief Setyanto 1, Arif Laksito 2*, Fawaz Alarfaj 3*, Mohammed Alreshoodi 4, Kusrini 1, Irwan Oyong 2, Mardhiya Hayaty 2, Abdullah Alomair 3, Naif Almusallam 3 and Lilis Kurniasari
