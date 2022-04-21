@@ -8,3 +8,6 @@ Sentiment Analysis; Opinion mining; Neural Network; LSTM; Arabic.
 
 ### Authors:
 Arief Setyanto 1, Arif Laksito 2*, Fawaz Alarfaj 3*, Mohammed Alreshoodi 4, Kusrini 1, Irwan Oyong 2, Mardhiya Hayaty 2, Abdullah Alomair 3, Naif Almusallam 3 and Lilis Kurniasari
+
+### Citation
+Setyanto A, Laksito A, Alarfaj F, Alreshoodi M, Kusrini, Oyong I, Hayaty M, Alomair A, Almusallam N, Kurniasari L. Arabic Language Opinion Mining Based on Long Short-Term Memory (LSTM). Applied Sciences. 2022; 12(9):4140. https://doi.org/10.3390/app12094140
